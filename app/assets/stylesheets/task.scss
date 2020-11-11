@@ -1,3 +1,27 @@
 // Place all the styles related to the task controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+.link-list {
+  color: rgb(67, 60, 128);
+}
+
+.link-list:hover {
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.list {
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  box-shadow: 0px 10px 13px -7px #000000;
+}
+
+h1 {
+ color: rgb(102, 92, 97);
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+
